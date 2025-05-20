@@ -11,4 +11,8 @@
 
 
 2a.strings  
-[2a.stringoperation]--https://github.com/sharanyar064/advanced_java_programs/blob/main/2a.strings/2a.png
+[2a.stringoperation]--https://github.com/sharanyar064/advanced_java_programs/blob/main/2a.strings/2a.png  
+
+
+2b.strings  
+[2a.PerformanceTest]--https://github.com/sharanyar064/advanced_java_programs/blob/main/2b.strings/2b.png  
