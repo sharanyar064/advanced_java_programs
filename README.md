@@ -4,10 +4,13 @@
 [1b.2.Remove2nd]--https://github.com/sharanyar064/advanced_java_programs/blob/main/1b.LinkedList/1b.2.png  
 [1b.3.ArrayListSort]--https://github.com/sharanyar064/advanced_java_programs/blob/main/1b.LinkedList/1b.3.png  
 [1b.4.ArraySublis]--https://github.com/sharanyar064/advanced_java_programs/blob/main/1b.LinkedList/1b.4.png  
+
 1c.linkedlist  
 [1c.1.linkedlistiterator]---https://github.com/sharanyar064/advanced_java_programs/blob/main/1c.Linkedlist/1c.1.png  
 [1c.2.linkeddescending]---https://github.com/sharanyar064/advanced_java_programs/blob/main/1c.Linkedlist/1c.2.png  
 [1c.3.linkedlistoffer]--https://github.com/sharanyar064/advanced_java_programs/blob/main/1c.Linkedlist/1c.3.png  
+[1c.4.LinkedListget]https://github.com/sharanyar064/advanced_java_programs/blob/main/1c.Linkedlist/1c.5.png  
+[1c.5.LinkedListswap]https://github.com/sharanyar064/advanced_java_programs/blob/main/1c.Linkedlist/1c.5.png  
             
 
 
