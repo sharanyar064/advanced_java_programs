@@ -63,7 +63,11 @@
 
 6a.Factorialselvet  
 [6a.1.Factorialselvet]--https://github.com/sharanyar064/advanced_java_programs/blob/main/6a.FactorialServlet/6a.1.png  
-[6a.2.Factorialselvet]https://github.com/sharanyar064/advanced_java_programs/blob/main/6a.FactorialServlet/6a.2.png
+[6a.2.Factorialselvet]https://github.com/sharanyar064/advanced_java_programs/blob/main/6a.FactorialServlet/6a.2.png  
+
+6b.helloproject
+[6b.1.helloproject]--https://github.com/sharanyar064/advanced_java_programs/blob/main/6b.helloproject/6b.1.png  
+[6b.2.helloproject]--https://github.com/sharanyar064/advanced_java_programs/blob/main/6b.helloproject/6b.2.png
 
 6c.PrimeCheckerApp1
 [6c.1.PrimeCheckerApp1]https://github.com/sharanyar064/advanced_java_programs/blob/main/6c.PrimeCheckerApp1/6c.1.png
