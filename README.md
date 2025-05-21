@@ -21,5 +21,6 @@
 [2a.PerformanceTest]--https://github.com/sharanyar064/advanced_java_programs/blob/main/2b.strings/2b.png 
 
 3a.stringoperation  
-[3a.stringoperation]https://github.com/sharanyar064/advanced_java_programs/blob/main/3a.stringoperations/3a.png
+[3a.stringoperation]https://github.com/sharanyar064/advanced_java_programs/blob/main/3a.stringoperations/3a.png  
+https://github.com/sharanyar064/advanced_java_programs/blob/main/3b.stringprograms/3b.3.png
 
