@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Update Employee Record</title>
+</head>
+<body>
+    <h2>Update Employee Information</h2>
+    <form action="updateEmployee.jsp" method="post">
+        <label for="empno">Employee Number:</label><br>
+        <input type="number" id="empno" name="empno" required><br><br>
+
+        <label for="empname">Employee Name:</label><br>
+        <input type="text" id="empname" name="empname" required><br><br>
+
+        <label for="basicsalary">Basic Salary:</label><br>
+        <input type="number" step="0.01" id="basicsalary" name="basicsalary" required><br><br>
+
+        <input type="submit" value="Update Employee">
+    </form>
+</body>
+</html>
