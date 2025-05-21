@@ -62,6 +62,7 @@
 
 
 6a.Factorialselvet  
-[6a.1.Factorialselvet]--
+[6a.1.Factorialselvet]--https://github.com/sharanyar064/advanced_java_programs/blob/main/6a.FactorialServlet/6a.1.png  
+[6a.2.Factorialselvet]https://github.com/sharanyar064/advanced_java_programs/blob/main/6a.FactorialServlet/6a.2.png
 
 
