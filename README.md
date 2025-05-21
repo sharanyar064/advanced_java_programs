@@ -98,6 +98,12 @@
 [8d.1.EmployeeUpdateProject]--https://github.com/sharanyar064/advanced_java_programs/blob/main/8d.EmployeeUpdateProject/8d.1.png  
 [8d.2.EmployeeUpdateProject]--https://github.com/sharanyar064/advanced_java_programs/blob/main/8d.EmployeeUpdateProject/8d.2.png  
 
+9a.deletedataset
+[9a.1.deletedataset]--https://github.com/sharanyar064/advanced_java_programs/blob/main/9a.deletedataset/9a.1.png  
+[9a.2.deletedataset]--https://github.com/sharanyar064/advanced_java_programs/blob/main/9a.deletedataset/9a.2.png  
+
+
+
 
 
 
