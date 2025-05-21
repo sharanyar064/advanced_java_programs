@@ -71,7 +71,10 @@
 
 6c.PrimeCheckerApp1
 [6c.1.PrimeCheckerApp1]https://github.com/sharanyar064/advanced_java_programs/blob/main/6c.PrimeCheckerApp1/6c.1.png
-[6c.2.PrimeCheckerApp1]https://github.com/sharanyar064/advanced_java_programs/blob/main/6c.PrimeCheckerApp1/6c.1.png
+[6c.2.PrimeCheckerApp1]https://github.com/sharanyar064/advanced_java_programs/blob/main/6c.PrimeCheckerApp1/6c.2.png  
+
+7a.SessionApp1
+[7a.SessionApp1]--https://github.com/sharanyar064/advanced_java_programs/blob/main/7a.SessionApp1/7a.1.png
 
 
 
