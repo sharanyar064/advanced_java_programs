@@ -45,7 +45,7 @@
 4b.countrybutton  
 [4b.countrybutton]--https://github.com/sharanyar064/advanced_java_programs/blob/main/4b.countrybutton/4b.png  
 
-4c.ImageButtonDemo
+4c.ImageButtonDemo  
 [4c.ImageButtonDemo]--https://github.com/sharanyar064/advanced_java_programs/blob/main/4c.ImageButtonDemo/4c.png
 
 
