@@ -74,7 +74,21 @@
 [6c.2.PrimeCheckerApp1]https://github.com/sharanyar064/advanced_java_programs/blob/main/6c.PrimeCheckerApp1/6c.2.png  
 
 7a.SessionApp1
-[7a.SessionApp1]--https://github.com/sharanyar064/advanced_java_programs/blob/main/7a.SessionApp1/7a.1.png
+[7a.SessionApp1]--https://github.com/sharanyar064/advanced_java_programs/blob/main/7a.SessionApp1/7a.1.png  
+
+7b.CookieApp
+[7b.1.CookieApp]--https://github.com/sharanyar064/advanced_java_programs/blob/main/7b.CookieApp/7b.1.png  
+[7b.2.CookieApp]--https://github.com/sharanyar064/advanced_java_programs/blob/main/7b.CookieApp/7b.2.png  
+
+8a.insertcoffeetable
+[8a.insertcoffeetable]--https://github.com/sharanyar064/advanced_java_programs/blob/main/8a.insertcoffeetable/insertcofeetable/src/main/webapp/8a.1.png  
+[8a.insertcoffeetable]--https://github.com/sharanyar064/advanced_java_programs/blob/main/8a.insertcoffeetable/insertcofeetable/src/main/webapp/8a.2.png  
+
+
+8b.updatecofeetable
+[8b.1.updatecofeetable]--https://github.com/sharanyar064/advanced_java_programs/blob/main/8b.updatecofeetable/8b.1.png
+[8b.2.updatecofeetable]--https://github.com/sharanyar064/advanced_java_programs/blob/main/8b.updatecofeetable/8b.2.png
+
 
 
 
