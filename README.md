@@ -52,6 +52,9 @@
 [5a.CountryListDemo]--https://github.com/sharanyar064/advanced_java_programs/blob/main/5a.CountryListDemo/5a.png  
 
 5b.ColorTabbedPaneDemo
-[5b.ColorTabbedPaneDemo]--https://github.com/sharanyar064/advanced_java_programs/blob/main/5b.ColorTabbedPaneDemo/5b.png
+[5b.ColorTabbedPaneDemo]--https://github.com/sharanyar064/advanced_java_programs/blob/main/5b.ColorTabbedPaneDemo/5b.png  
+
+5c.CountryCapitalListDemo  
+[5c.CountryCapitalListDemo]https://github.com/sharanyar064/advanced_java_programs/blob/main/5c.CountryCapitalListDemo/5c.png
 
 
