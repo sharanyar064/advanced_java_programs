@@ -55,6 +55,9 @@
 [5b.ColorTabbedPaneDemo]--https://github.com/sharanyar064/advanced_java_programs/blob/main/5b.ColorTabbedPaneDemo/5b.png  
 
 5c.CountryCapitalListDemo  
-[5c.CountryCapitalListDemo]https://github.com/sharanyar064/advanced_java_programs/blob/main/5c.CountryCapitalListDemo/5c.png
+[5c.CountryCapitalListDemo]https://github.com/sharanyar064/advanced_java_programs/blob/main/5c.CountryCapitalListDemo/5c.png  
+
+5d.ColorTabbedPane
+[5d.ColorTabbedPane]--https://github.com/sharanyar064/advanced_java_programs/blob/main/5d.ColorTabbedPane/5d.png
 
 
