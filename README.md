@@ -87,7 +87,17 @@
 
 8b.updatecofeetable
 [8b.1.updatecofeetable]--https://github.com/sharanyar064/advanced_java_programs/blob/main/8b.updatecofeetable/8b.1.png
-[8b.2.updatecofeetable]--https://github.com/sharanyar064/advanced_java_programs/blob/main/8b.updatecofeetable/8b.2.png
+[8b.2.updatecofeetable]--https://github.com/sharanyar064/advanced_java_programs/blob/main/8b.updatecofeetable/8b.2.png  
+
+8c.AppendEmp
+[8c.AppendEmp]--https://github.com/sharanyar064/advanced_java_programs/blob/main/8c.AppendEmp/8c.1.png  
+[8c.AppendEmp]--https://github.com/sharanyar064/advanced_java_programs/blob/main/8c.AppendEmp/8c.2.png  
+
+
+8d.EmployeeUpdateProject
+[8d.1.EmployeeUpdateProject]--https://github.com/sharanyar064/advanced_java_programs/blob/main/8d.EmployeeUpdateProject/8d.1.png  
+[8d.2.EmployeeUpdateProject]--https://github.com/sharanyar064/advanced_java_programs/blob/main/8d.EmployeeUpdateProject/8d.2.png  
+
 
 
 
