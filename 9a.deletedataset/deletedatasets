@@ -1,0 +1,4 @@
+INSERT INTO coffee (id, coffee_name, price)  
+VALUES (111, 'Espresso', 100.00), 
+(112, 'Latte', 120.50),
+(113, 'Cappuccino', 130.75);
