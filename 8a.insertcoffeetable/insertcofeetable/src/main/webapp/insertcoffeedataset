@@ -1,0 +1,21 @@
+-- 1. Create database if it doesn't exist
+CREATE DATABASE IF NOT EXISTS test;
+
+-- 2. Use the database
+USE test;
+
+-- 3. Drop the table if it already exists
+DROP TABLE IF EXISTS coffee;
+
+-- 4. Create the 'coffee' table
+CREATE TABLE coffee (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    coffee_name VARCHAR(100) NOT NULL,
+    price DOUBLE NOT NULL
+);
+
+-- 5. Optional: Insert some sample coffee records
+INSERT INTO coffee (coffee_name, price) VALUES
+('Espresso', 2.5),
+('Cappuccino', 3.0),
+('Latte', 3.5);
